@@ -59,10 +59,6 @@ img:hover {
     font-size: 0.8em;
 }
 
-footer {
-  text-align: right;
-  background: #fff;
-}
 
 header {
   color: rgb(152,173,166);
@@ -80,4 +76,9 @@ a {
 
 a:hover {
   text-decoration: underline;
+}
+
+footer {
+  text-align: right;
+  background: #fff;
 }
