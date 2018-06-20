@@ -65,9 +65,10 @@ footer {
 }
 
 header {
-  
+  color: rgb(152,173,166);
+  text-decoration: none;
 }
 
 header:hover {
-  
+  color: rgb();
 }
